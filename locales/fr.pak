@@ -1,0 +1,8 @@
+  {
+    "speech": {
+    "noStory": "Je n'ai pas trouvé cette histoire",
+    "speakStory": "Je mets l'histoire $$",
+    "playStory": "$$",
+    "stopStory": "Histoire arrêtée."
+  }
+}
