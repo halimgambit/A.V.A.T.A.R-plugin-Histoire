@@ -45,7 +45,7 @@ const playStory = (data, client, toClient, L, callback) => {
     );
 
 	if (!nameStory) {
-    Avatar.speak(L.get(["speech.noStory"]), client, () => {
+    Avatar.speak(L.get("speech.noStory"), client, () => {
         callback();
     });
     return;
@@ -71,7 +71,7 @@ const playStory = (data, client, toClient, L, callback) => {
 const stopStory = (client, toClient, L, callback) => {
 
 	Avatar.stop(toClient, () => {
-	Avatar.speak(L.get(["speech.stopStory"]), client, () => {
+	Avatar.speak(L.get("speech.stopStory"), client, () => {
         callback();
     });
   });
