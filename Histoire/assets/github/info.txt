@@ -1,0 +1,4 @@
+Histoire
+Permet à A.V.A.T.A.R. de raconter des histoires directement à la voix.
+Profitez d'un large choix de contes et d'histoires classiques accessibles instantanément par commande vocale. Idéal pour divertir les petits comme les grands, chaque histoire est diffusée sur le client de votre choix.
+Un plugin simple et convivial pour ajouter une touche de magie et de divertissement à votre assistant vocal.
