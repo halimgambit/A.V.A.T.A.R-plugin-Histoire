@@ -1,8 +1,0 @@
-{
-    speech: {
-    "noStory": "I didn’t find that story",
-    "speakStory": "I put the story $$",
-    "playStory": "$$",
-    "stopStory": "History stopped."
-  }
-}
